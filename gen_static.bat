@@ -1,0 +1,1 @@
+reveal-md semi_supervised.md --static docs
