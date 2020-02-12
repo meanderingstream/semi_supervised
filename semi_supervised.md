@@ -24,6 +24,15 @@ https://arxiv.org/abs/1912.01991
 ---
 ## Why Semi-Supervised Pretext Training?
 ---
+## Contrastive Self Supervised
+
+https://ankeshanand.com/blog/2020/01/26/contrative-self-supervised-learning.html
+
+---
+## Self-Supervised Representation Learning
+
+https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html
+---
 ## Covariant Tasks
 
 a pretext task that applies a
@@ -56,6 +65,12 @@ different from the representations of other images.
 
 <img src="./images/jig_saw_image2.png"  height="500">
 
+---
+## Embeddings
+
+<img src="./images/pinterest_visual_similarity.png"  height="500">
+
+https://medium.com/pinterest-engineering/unifying-visual-embeddings-for-visual-search-at-pinterest-74ea7ea103f0
 ---
 ## PIRL Approach
 
